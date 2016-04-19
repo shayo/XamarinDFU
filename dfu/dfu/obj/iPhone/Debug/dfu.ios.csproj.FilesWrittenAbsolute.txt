@@ -1,0 +1,15 @@
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/build-iphone4.1-9.3.1/actool/partial-info.plist
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/build-iphone4.1-9.3.1/actool/asset-manifest.plist
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/optimized/
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/bin/iPhone/Debug/dfu.exe.mdb
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/bin/iPhone/Debug/dfu.exe
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/dfu.exe
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/dfu.exe.mdb

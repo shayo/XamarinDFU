@@ -1,0 +1,10 @@
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/dfu.android.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/System.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/System.Xml.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/Mono.Android.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/System.Core.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/mscorlib.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu.android/obj/Debug/assemblies/System.ServiceModel.Internals.dll

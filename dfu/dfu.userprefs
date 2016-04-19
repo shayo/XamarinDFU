@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="dfu/dfu.ios.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dfu.shared/DFUService.cs">
+    <Files>
+      <File FileName="dfu/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="dfu/Main.cs" Line="1" Column="1" />
+      <File FileName="dfu/ViewController.cs" Line="1" Column="1" />
+      <File FileName="dfu/Info.plist" />
+      <File FileName="dfu.android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="dfu.shared/MyClass.cs" Line="1" Column="1" />
+      <File FileName="dfu.shared/ServiceEventArgs.cs" Line="3" Column="21" />
+      <File FileName="dfu.shared/DFUService.cs" Line="20" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

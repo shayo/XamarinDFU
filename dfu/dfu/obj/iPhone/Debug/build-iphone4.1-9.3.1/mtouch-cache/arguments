@@ -1,0 +1,37 @@
+# Version: 9.6.1.9 (cycle6-xi-c6sr3: 5f11db8)
+# [first argument, ignore] # /Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.6.1.9/bin/mtouch \
+	--cache \
+	"/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/build-iphone4.1-9.3.1/mtouch-cache" \
+	--dev \
+	"/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/bin/iPhone/Debug/build-iphone4.1-9.3.1/dfu.app" \
+	--executable \
+	dfu \
+	--debug \
+	--profiling \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.3 \
+	--targetver \
+	9.3 \
+	--aot-options=-O=float32 \
+	--new-refcount \
+	--abi=armv7 \
+	--symbollist \
+	"/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/obj/iPhone/Debug/build-iphone4.1-9.3.1/mtouch-symbols.list" \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	"/Users/shayo/Dropbox (MIT)/Code/Github/XamarinDFU/dfu/dfu/bin/iPhone/Debug//dfu.exe" \
